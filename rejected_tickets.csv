@@ -1,0 +1,10 @@
+ticket_id,name,email,issue_type,priority,description,timestamp,error_reason,reason
+2.0,Amit,amitgmail.com,login,Medium,Unable to login,2026-03-08 11:00,Invalid Email,
+1.0,Rahul,rahul@gmail.com,wifi,High,Wifi issue again,2026-03-08 14:00,Duplicate Ticket within 24 hours,
+,Order Issue: UB021,,,,,,,Invalid Email
+,Production Delay: SS002,,,,,,,Invalid Email
+,Shipping Query: NMD001,,,,,,,Invalid Email
+,Customization Request: ST001,,,,,,,Invalid Email
+,Order Cancellation: FL011,,,,,,,Invalid Email
+,Shoe quality,,,,,,,Invalid Email
+,Inquiry about canceled order id5,,,,,,,Invalid Email

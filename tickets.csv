@@ -1,0 +1,51 @@
+ticket_id,name,email,issue_type,priority,description,timestamp
+1,Rahul,rahul@gmail.com,wifi,High,Wifi not working,2026-03-10 09:00
+2,Amit,amit@gmail.com,login,Medium,Unable to login,2026-03-10 09:05
+3,Priya,priya@gmail.com,software,Low,Python install issue,2026-03-10 09:10
+4,Sara,sara@gmail.com,hardware,Medium,Laptop not starting,2026-03-10 09:20
+5,John,john@gmail.com,wifi,High,Internet disconnecting,2026-03-10 09:30
+6,Neha,nehagmail.com,login,High,Password reset issue,2026-03-10 09:35
+7,Ravi,ravi@gmail.com,software,Low,VSCode error,2026-03-10 09:40
+8,Ankit,ankit@gmail.com,wifi,Medium,Slow internet,2026-03-10 09:45
+9,Pooja,pooja@gmail.com,hardware,High,Screen flickering,2026-03-10 09:50
+10,David,david@gmail.com,login,Low,Account locked,2026-03-10 10:00
+11,Karan,karan@gmail.com,wifi,Medium,Wifi not connecting,2026-03-10 10:05
+12,Ritu,ritu@gmail.com,software,Low,Software update error,2026-03-10 10:10
+13,Arjun,arjun@gmail.com,hardware,High,Keyboard not working,2026-03-10 10:15
+14,Sneha,sneha@gmail.com,login,Medium,Login timeout issue,2026-03-10 10:20
+15,Meena,meena@gmail.com,wifi,Low,Weak signal,2026-03-10 10:25
+16,Rahul,rahul@gmail.com,wifi,High,Wifi still not working,2026-03-10 10:30
+17,Varun,varun@gmail.com,software,Medium,Application crash,2026-03-10 10:40
+18,Kavya,kavya@gmail.com,hardware,Low,Mouse not working,2026-03-10 10:45
+19,Ashish,ashish@gmail.com,login,High,Authentication error,2026-03-10 10:50
+20,Simran,simran@gmail.com,wifi,Medium,Wifi disconnects often,2026-03-10 11:00
+21,Dev,dev@gmail.com,printer,High,Printer not working,2026-03-10 11:05
+22,Ali,ali@gmail.com,software,Medium,Install failure,2026-03-10 11:10
+23,Nisha,nisha@gmail.com,wifi,Low,Wifi slow,2026-03-10 11:15
+24,Rohan,roh@gmail.com,login,High,Login problem,2026-03-10 11:20
+25,Tina,tina@gmail.com,hardware,Medium,USB port issue,2026-03-10 11:30
+26,Sam,sam@gmail.com,software,Low,Code editor error,2026-03-10 11:35
+27,Riya,riya@gmail.com,wifi,High,Wifi disconnecting,2026-03-10 11:40
+28,Jay,jay@gmail.com,login,Medium,Account locked again,2026-03-10 11:45
+29,Leo,leo@gmail.com,hardware,Low,Touchpad issue,2026-03-10 11:50
+30,Chris,chris@gmail.com,software,High,Compiler error,2026-03-10 12:00
+31,Deepak,deepak@gmail.com,wifi,Medium,Router restart needed,2026-03-10 12:05
+32,Sita,sita@gmail.com,login,Low,Password expired,2026-03-10 12:10
+33,Arnav,arnav@gmail.com,software,Medium,App update problem,2026-03-10 12:15
+34,Maya,maya@gmail.com,hardware,High,Hard disk issue,2026-03-10 12:20
+35,Kiran,kiran@gmail.com,wifi,Low,Wifi weak,2026-03-10 12:25
+36,Ajay,ajaygmail.com,login,Medium,Login not working,2026-03-10 12:30
+37,Lina,lina@gmail.com,software,Low,Install issue,2026-03-10 12:35
+38,Samir,samir@gmail.com,hardware,Medium,Speaker not working,2026-03-10 12:40
+39,Nikhil,nikhil@gmail.com,wifi,High,Internet slow again,2026-03-10 12:45
+40,Asha,asha@gmail.com,login,Low,Reset password issue,2026-03-10 12:50
+41,Tom,tom@gmail.com,software,Medium,IDE crash,2026-03-10 13:00
+42,Emma,emma@gmail.com,hardware,High,Camera not detected,2026-03-10 13:05
+43,Noah,noah@gmail.com,wifi,Low,Wifi intermittent,2026-03-10 13:10
+44,Olivia,olivia@gmail.com,login,Medium,Login retry issue,2026-03-10 13:15
+45,Liam,liam@gmail.com,software,High,Build error,2026-03-10 13:20
+46,Sophia,sophia@gmail.com,hardware,Low,Keyboard lag,2026-03-10 13:25
+47,James,james@gmail.com,wifi,Medium,Slow connection,2026-03-10 13:30
+48,Lucas,lucas@gmail.com,login,High,Account locked,2026-03-10 13:35
+49,Mia,mia@gmail.com,software,Low,Module import error,2026-03-10 13:40
+50,Ethan,ethan@gmail.com,hardware,Medium,Charging issue,2026-03-10 13:45
